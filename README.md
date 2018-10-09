@@ -10,12 +10,12 @@ framset例子
 
 ## 例子
 ```
-	<frameset rows="10%,*">
-		<frame src="top.html" name="top"/>
-		<frameset cols="10%,*">
-			<frame src="left.html" name="left" />
-			<frame src="right.html" name="right"/>
-		</frameset>
+<frameset rows="10%,*">
+	<frame src="top.html" name="top"/>
+	<frameset cols="10%,*">
+		<frame src="left.html" name="left" />
+		<frame src="right.html" name="right"/>
+	</frameset>
 </frameset>
 ```
 
